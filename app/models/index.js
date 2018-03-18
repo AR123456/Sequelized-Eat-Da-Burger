@@ -1,3 +1,5 @@
+//boiler plate code created with initiating sequelize don't touch this 
+
 'use strict';
 
 var fs        = require('fs');
